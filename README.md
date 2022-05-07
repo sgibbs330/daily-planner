@@ -12,3 +12,8 @@ Deployed Website:
 https://sgibbs330.github.io/daily-planner/
 
 Website Screenshots:
+
+<img width="1430" alt="Screen Shot 2022-05-07 at 3 42 43 PM" src="https://user-images.githubusercontent.com/101609307/167274241-0ad09a2a-8ad9-4bf8-b5ea-54489d8f907a.png">
+
+<img width="1440" alt="Screen Shot 2022-05-07 at 3 43 03 PM" src="https://user-images.githubusercontent.com/101609307/167274246-e3e76e93-146f-4163-994d-7fa0380dc862.png">
+
