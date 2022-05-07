@@ -10,9 +10,7 @@ var onePm = $("#13pm");
 var twoPm = $("#14pm");
 var threePm = $("#15pm");
 var fourPm = $("#16pm");
-var fivePm = $("#17pm");
-var sixPm = $("#18pm");
-var sevenPm = $("#19pm");
+var fivePm = $("#17pm")
 
 var hour = moment().hours();
 var userInput;
@@ -24,8 +22,8 @@ var hourSpan;
 var interval = setInterval(function() {
   var momentNow = moment();
   $('#currentDay').html(momentNow.format('YYYY MMMM DD') + ' '
-                      + momentNow.format('dddd')
-                       .substring(0,3).toUpperCase());
+  + momentNow.format('dddd')
+  .substring(0,3).toUpperCase());
   $('#currentDay').html(currentDate + " " + momentNow.format('hh:mm:ss A'));
 }, 100);
 
@@ -56,14 +54,7 @@ function initPage() {
   fourPm.val(init4);
   
   var init5 = JSON.parse(localStorage.getItem("05:00 pm"))
-  fivePm.val(init5);
-  
-  var init6 = JSON.parse(localStorage.getItem("06:00 pm"))
-  sixPm.val(init6);
-  
-  var init7 = JSON.parse(localStorage.getItem("07:00 pm"))
-  sevenPm.val(init7);
-} 
+  fivePm.val(init5);}
 
 function background () {
       
