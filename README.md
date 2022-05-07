@@ -9,4 +9,6 @@ I created a calander application that maps out each hour of the day and allows f
 
 Deployed Website:
 
+https://sgibbs330.github.io/daily-planner/
+
 Website Screenshots:
